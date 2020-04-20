@@ -1,0 +1,5 @@
+# 2 data points
+# 1st data point:+1
+# 2nd data point:-1
+1 0 1
+1 0.05 -1
